@@ -8,7 +8,11 @@
 
 O objetivo deste projeto é comparar a precisão de diversos modelos de regressão aplicados ao dataset de aluguéis de bicicletas. O código foi desenvolvido para servir como um parâmetro de conferência entre a execução manual e a execução diretamente na nuvem utilizando o Azure Machine Learning.
 
-**Título do Projeto:** [Bike Rentals Regression Analysis](https://github.com/seu_usuario/nome_do_projeto)
+## Link para o projeto
+
+<a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/regressao-em-python/Regress%C3%A3o-em-python-bike_rentals.ipynb" target="_blank">microsoft-analista-azure-ia/regressao-em-python
+/Regressão-em-python-bike_rentals.ipynb</a>
+
 
 ## Tecnologias Utilizadas
 
@@ -38,6 +42,18 @@ Instale as seguintes bibliotecas:
 ### Resumo
 
 O notebook inclui a leitura do dataset, pré-processamento, treino dos modelos, e avaliação dos resultados.
+
+| ID | Regressor                 | R-squared  | Mean Squared Error |
+|----|---------------------------|------------|--------------------|
+| 6  | ExtraTreesRegressor       | 78.686.995 | 0.154456           |
+| 1  | GradientBoostingRegressor | 76.420.638 | 0.170880           |
+| 4  | SGDRegressor              | 75.566.424 | 0.177071           |
+| 5  | RandomForestRegressor     | 74.567.340 | 0.184311           |
+| 8  | XGBRegressor              | 74.498.237 | 0.184812           |
+| 3  | KNeighborsRegressor       | 73.977.869 | 0.188583           |
+| 7  | LGBMRegressor             | 72.908.080 | 0.196336           |
+| 2  | DecisionTreeRegressor     | 54.479.847 | 0.329886           |
+| 0  | ElasticNet                | 16.957.668 | 0.601810           |
 
 ## Roadmap
 
