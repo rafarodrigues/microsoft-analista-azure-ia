@@ -37,6 +37,7 @@ Para rodar este projeto localmente, siga as instruções abaixo.
 Instale as seguintes bibliotecas:
 
 >  sh
+>
 > `conda install -c conda-forge numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm`
 
 ### Resumo
@@ -69,5 +70,3 @@ Distribuído sob a licença MIT.
 ## Autores
 
 - Rafael Rodrigues - [@rafarodrigues](https://github.com/rafarodrigues)
-
-Link do Projeto: [https://github.com/seu_usuario/nome_do_projeto](https://github.com/seu_usuario/nome_do_projeto)
