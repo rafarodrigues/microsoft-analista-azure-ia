@@ -8,7 +8,7 @@
 
 O objetivo deste projeto é explorar as funcionalidades da Linguagem de IA do Azure, aplicando técnicas de Processamento de Linguagem Natural (NLP) para entender se as avaliações de hotéis são majoritariamente positivas ou negativas.
 
-Link para o Laboratório: <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals.pt-br/Instructions/Labs/06-text-analysis.html" target="_blank">Analisar texto com o Estúdio de Idiomas</a>
+Link para o Laboratório: <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/azure-ai-language/azure_ai_language.ipynb" target="_blank">Analisar texto com o Estúdio de Idiomas</a>
 
 ## Link para o projeto
 
