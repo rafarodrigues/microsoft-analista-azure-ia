@@ -1,8 +1,9 @@
 # OCR com Azure Vision Studio
 <br>
-<img src="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/53cf1831d887cbcaad03cfc35b61cb0cd6b90938/regressao-em-python/dados/header.jpg?raw=true" width="700" alt="exemplo imagem">
 
 > Este repositório contém um exercício prático de reconhecimento óptico de caracteres (OCR) utilizando o Azure Vision Studio. Exploramos as funcionalidades do serviço de IA do Azure para extrair texto de imagens sem necessidade de escrever código.
+
+<div align="center"> <img src="https://portal.vision.cognitive.azure.com/dist/assets/OCR-illustration-ddeaaeb9.svg" alt="OCR Output" width="500"> </div>
 
 ## Introdução
 
@@ -14,8 +15,8 @@ O exercício foi realizado seguindo os passos descritos no [laboratório oficial
 
 ## Link para o projeto
 
-<a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/regressao-em-python/Regress%C3%A3o-em-python-bike_rentals.ipynb" target="_blank">microsoft-analista-azure-ia/regressao-em-python
-/Regressão-em-python-bike_rentals.ipynb</a>
+<a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/vision-studio-ler-texto/Ler_texto_no_Vision_Studio.ipynb" target="_blank">microsoft-analista-azure-ia/vision-studio-ler-texto
+/Ler_texto_no_Vision_Studio.ipynb</a>
 
 
 ### Configuração do Recurso de IA do Azure
@@ -30,9 +31,9 @@ No Vision Studio, utilizamos o serviço de OCR para extrair texto das imagens fo
 
 1. **Carregar Imagem**
 2. **Processamento de OCR** 
-3. **Visualização**: 
+3. **Visualização**
 
-<div align="center"> <img src="https://via.placeholder.com/800x400" alt="OCR Output" width="800"> </div>
+<div align="center"> <img src="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/vision-studio-ler-texto/ocr-images/capa.jpg?raw=true" alt="OCR Output" width="800"> </div>
 
 ## Metodologia
 
