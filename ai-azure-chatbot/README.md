@@ -12,8 +12,8 @@ Link para o Laboratório: <a href="https://microsoftlearning.github.io/mslearn-a
 
 ## Link para o projeto
 
-<a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/regressao-em-python/Regress%C3%A3o-em-python-bike_rentals.ipynb" target="_blank">microsoft-analista-azure-ia/regressao-em-python
-/Regressão-em-python-bike_rentals.ipynb</a>
+<a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/blob/main/ai-azure-chatbot/ai-azure-chatbot.ipynb" target="_blank">microsoft-analista-azure-ia/ai-azure-chatbot
+/ai-azure-chatbot.ipynb</a>
 
 
 ## Tecnologias Utilizadas
