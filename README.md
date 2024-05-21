@@ -10,6 +10,7 @@
 * `02` <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/tree/main/regressao-em-python" target="_blank">Machine Learning - Predição de aluguéis de bicicletas</a>
 * `03` <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/tree/main/vision-studio-ler-texto" target="_blank">OCR com Azure Vision Studio</a>
 * `04` <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/tree/main/azure-ai-language" target="_blank">Análise de Texto com o Azure AI Language</a>
+* `05` <a href="https://github.com/rafarodrigues/microsoft-analista-azure-ia/tree/main/azure-ai-language" target="_blank">Implementação de Chatbot com Azure AI Language</a>
 
 ## 📊 Intenções / Objetivos
 
