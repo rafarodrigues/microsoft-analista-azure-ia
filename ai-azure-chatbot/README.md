@@ -8,7 +8,7 @@
 
 O objetivo deste projeto é criar e treinar uma base de dados de perguntas e respostas usando o Language Studio para um bot de atendimento ao cliente da Margie's Travel, uma agência de viagens fictícia. A base de dados foi construída a partir da página de perguntas frequentes do site da empresa.
 
-Link para o Laboratório: <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals.pt-br/Instructions/Labs/07-question-answering.html?authuser=0" target="_blank">Usar o modelo de Respostas às Perguntas com o Language Studio</a>
+Link para o Laboratório: <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals.pt-br/Instructions/Labs/07-question-answering.html?authuser=0" target="_blank">Usar o modelo de Respostas às Perguntas com o Language Studio </a>
 
 ## Link para o projeto
 
